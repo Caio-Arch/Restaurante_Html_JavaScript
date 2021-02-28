@@ -1,0 +1,149 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+p{ 
+  color:black;
+  font-size: 17px;
+}
+footer{  
+    height: 85px;
+    width: 1230px;
+    margin-top: 40px;
+    text-align: center;
+    background-color: cornsilk;
+}
+#caixa{
+    display: inline-block;
+    margin-top: -2px;
+}
+#caixa2{
+    margin-top: -4px;
+}
+hr{
+    width: 260px;
+    border-top: 2px dotted #000;
+    border-bottom: orange;
+}
+a{
+    margin-left: 15px;
+}
+h1{
+    margin-left: 15px;
+}
+h2{
+    margin-top: -10px;
+}
+.conteiner{
+       width: 1205px;
+       height: 615px;
+       padding-top: 20px;
+       margin: 10px auto 5px auto;
+}
+.bloco{
+    float: block;
+    width: 1050px;
+    height: 515px;
+    margin-left: 15%;
+    margin-bottom: 20px;
+    margin-right: 300px;
+    border-radius:  0px 25px 25px 0px;    
+    background-color: cornsilk;
+}
+.bloco1{
+    float: left;
+    width: 165px;
+    height: 515px;
+    border: 1px solid black;
+    border-radius: 25px 0px 0px 25px;
+    box-shadow: 3px 4px 6px 0 black;
+    background-color: cornsilk;
+}
+#border1{
+    border: 1px solid gray;
+    
+}
+#border2{
+    border: 1px solid black;
+    box-shadow: 3px 4px 6px 0 black;
+}
+#border3{
+    border: 2px solid black;
+    box-shadow: 3px 4px 6px 0px black;
+}
+.border4{
+    display: inline-flex;
+    border: 2px dotted orange;
+    padding-top: 1px;
+    margin-top: 0px;
+    margin-left: 20px;
+    width: 1000px;
+}
+#border5{
+    border-top: 2px dotted orange;
+    border-right: 0px dotted orange;
+    border-bottom: 2px dotted orange;
+    
+    width: 500px;
+}
+.produtos{
+    display: inline-block;
+    width: 250px;
+    margin-top: 20px;
+    margin-right: 1px;
+    margin-left: 20px;
+    padding-right: 10px;
+    padding-top: 45px;
+    padding-bottom: 35px;
+    border-radius: 25px 25px 0px 0px;
+    background-color: orange;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+.bloco3{
+    height: 200px;
+}
+button{
+    font: inherit;
+    cursor: pointer;
+}
+.botao{
+    display: block;
+    text-decoration: none;
+    border: 0;
+    text-shadow: 2px 2px 2px rgba(0, 0,0,0.5);
+    border-radius: 0.5em;
+    box-shadow: 2px 2px 0 1px #930;
+    background: silver;
+    color: black;
+    margin-left: 85px;
+    width: 35%;
+    margin-top: -5px;
+
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+.botao:active{
+    box-shadow: 0 0 0 0 #930, inset 3px 3px 3px #930;
+    transform: translate(3px, 3px);
+}
+#button{
+    background-color: orange;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}   
+.dis{
+    float: left;   
+}
+form { 
+    display: block;
+    margin-top: 0em;
+  }
+  .hero-image {
+    background-image: url(Img/images.jpg);
+    background-attachment: fixed;
+    background-color: white;
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }

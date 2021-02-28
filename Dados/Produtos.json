@@ -1,0 +1,12 @@
+{
+    "produtos":
+    [
+        {"valor": 10.55, "nome": "Churrasquinho", "restaurante": "Bartolomeu Steak"},
+        {"valor": 15.99, "nome": "Combo 1", "restaurante": "Mc Donalds"},
+        {"valor": 28.55, "nome": "Curral de Milho", "restaurante": "Casa Da Pamonha"},
+        {"valor": 18.55, "nome": "Lanche de Pernil", "restaurante": "Taberna"},
+        {"valor": 50.55, "nome": "Bacalhau", "restaurante": "Restaurante do Portuga"}
+
+    ]
+} 
+
